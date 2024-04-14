@@ -2,4 +2,4 @@
 ![image](https://github.com/renatochaud/fuja-das-ta-as/assets/166959522/502254a7-c078-40d7-a24a-20ef07810912) print jogo
 ![image](https://github.com/renatochaud/fuja-das-ta-as/assets/166959522/4cd1c47e-c30d-41a8-af74-ed3f117e7054) Print jogo
 O jogo é o seguinte voce tem q controlar o personagem pelo mouse segurando o botão esquerdo para mover o personagem e fugir das taças enquanto pontua pegando as moedas
-![jogo](https://preview.construct.net/local.html)
+![jogo](https://preview.construct.net/local.html) Jogo para celular 
